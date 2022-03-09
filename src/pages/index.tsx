@@ -73,12 +73,12 @@ const Home: NextPage = () => {
         overflowY="auto"
         height={"100vh"}
       >
-        {/* <Image
+        <Image
           height={"100%"}
-          src='/home_cover.png'
+          src='https://source.unsplash.com/random/2560x1600'
           alt='logo'
           objectFit={"cover"}
-        /> */}
+        />
       </Flex>
       </Grid>
 
